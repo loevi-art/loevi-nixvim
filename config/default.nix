@@ -180,7 +180,6 @@
                         "--background-index"
                         "--clang-tidy"
                         "--completion-style=detailed"
-                        "--compile-commands-dir=.cache/cake"
                         "--pch-storage=memory"
                         "--query-driver=/nix/store/*/bin/clang++,/nix/store/*/bin/g++"
                     ];
