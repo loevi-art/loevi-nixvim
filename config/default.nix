@@ -303,6 +303,7 @@
                 ];
             };
         };
+        nui.enable = true;
     };
 
     keymaps = [
